@@ -13,13 +13,14 @@
 
 ---
 
+
 ## 1. Proje Hakkında
 
   - **Tür:** Android Mobil Uygulama
   - **Kullanılan İzin:** 
     - İnternet
 
-Bu repo, filmler isimli clone tarzda bir uygulamanın XML ile yazılmış arayüz çalışmasını içermektedir. Uygulama, `https://moviesapi.ir` adresine çeşitli istekler atarak filmlerle ilgili verileri çekmekte ve uygun formda kullanıcıya göstermektedir.
+Filmler isimli bu uygulama clone tarzda bir arayüzün XML ile yazılmış çalışmasını içermektedir. Uygulama, `https://moviesapi.ir` adresine çeşitli istekler atarak filmlerle ilgili verileri çekmekte ve uygun formda kullanıcıya göstermektedir.
 
 
 ## 2. Ekran Görüntüleri
@@ -27,6 +28,7 @@ Bu repo, filmler isimli clone tarzda bir uygulamanın XML ile yazılmış arayü
 |  ![Ekran Görüntüsü 1](./README%20RESOURCES/Ekran%20Görüntüsü%201.jpg) | ![Ekran Görüntüsü 2](./README%20RESOURCES/Ekran%20Görüntüsü%202.jpg) |
 | ------------- | ------------- |
 |  ![Ekran Görüntüsü 3](./README%20RESOURCES/Ekran%20Görüntüsü%203.jpg) | ![Ekran Görüntüsü 4](./README%20RESOURCES/Ekran%20Görüntüsü%204.jpg) |
+
 
 ## 3. Video
 
@@ -41,6 +43,7 @@ Bu repo, filmler isimli clone tarzda bir uygulamanın XML ile yazılmış arayü
   - com.google.code.gson:gson:2.10.1
 - **Teknolojiler:**
   - RecyclerView
+
 
 ## 5. Uygulamayı Çalıştırma
 
@@ -60,9 +63,11 @@ Uygulamanın  "Giriş Yap" sayfasında **kullanıcı adı** ve **parola** kutula
 - **Versiyon Adı:** `1.0`
 - **Versiyon Kodu:** `1`
 
+
 ## 7. Lisans
 
 Bu proje [GNU General Public License v3.0](LICENSE) altında lisanslanmıştır. Detaylar için lisans dosyasını inceleyebilirsiniz.
+
 
 ## 8. İletişim
 
