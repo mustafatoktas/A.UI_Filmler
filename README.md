@@ -44,7 +44,7 @@ Bu repo, filmler isimli clone tarzda bir uygulamanın XML ile yazılmış arayü
 
 ## 5. Uygulamayı Çalıştırma
 
-Uygulamayı kendi bilgisayarınıza indirmek, deneyimlemek veya kodları incelemek için git bash'de projeyi indirmek istediğiniz dosya yoluna gidip `git clone https://github.com/mustafatoktas/A.UI_Filmler.git`
+Uygulamayı kendi bilgisayarınıza indirmek, çalıştırmak veya kodları incelemek için git bash'de projeyi indirmek istediğiniz dosya yoluna gidip `git clone https://github.com/mustafatoktas/A.UI_Filmler.git`
 komutunu çalıştırabilirsiniz. <br>
 Uygulamanın  "Giriş Yap" sayfasında **kullanıcı adı** ve **parola** kutularına sırasıyla `mustafatoktas` ve `123` yazarak  giriş yapabilirsiniz.
 
