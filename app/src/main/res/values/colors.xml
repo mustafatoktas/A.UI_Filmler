@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ana_renk">#1F1D2B</color>
+    <color name="turuncu">#FF7427</color>
+    <color name="sari">#FFC107</color>
+    <color name="dark_mavi">#252836</color>
+</resources>
