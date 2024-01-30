@@ -56,7 +56,7 @@ Uygulamanın  "Giriş Yap" sayfasında **kullanıcı adı** ve **parola** kutula
 
 [Filmler.apk](./README%20RESOURCES/Filmler.apk)
 
-|  Min SDK | Target SDK |
+|  Min API | Target API |
 | ------------- | ------------- |
 |  26 - Android 8.0 Oreo | 34 - Android 14.0 |
 - **Paket Adı:** `com.mustafatoktas.filmler`
